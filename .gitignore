@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Editor settings
+.vscode/
+
+# Temporary test files
+empty.log
+invalid_encoding.log
